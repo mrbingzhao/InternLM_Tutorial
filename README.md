@@ -12,7 +12,9 @@
 
 ### 笔记
 1.InternLLM开源社区-Linux 基础操作[https://zhuanlan.zhihu.com/p/708102661]
+
 2.InternLLM开源社区-python 基础操作[https://zhuanlan.zhihu.com/p/708113577]
+
 3.InternLLM开源社区-Git 基础操作【https://zhuanlan.zhihu.com/p/708194831】
 
 ### 学习参考
