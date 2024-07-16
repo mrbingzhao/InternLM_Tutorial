@@ -11,11 +11,11 @@
 提交笔记、记录心得体会和内容分享。
 
 ### 笔记
-1.InternLLM开源社区-Linux 基础操作[https://zhuanlan.zhihu.com/p/708102661]
+1.[InternLLM开源社区-Linux 基础操作](https://zhuanlan.zhihu.com/p/708102661)
 
-2.InternLLM开源社区-python 基础操作[https://zhuanlan.zhihu.com/p/708113577]
+2.[InternLLM开源社区-python 基础操作](https://zhuanlan.zhihu.com/p/708113577)
 
-3.InternLLM开源社区-Git 基础操作【https://zhuanlan.zhihu.com/p/708194831】
+3.[InternLLM开源社区-Git 基础操作](https://zhuanlan.zhihu.com/p/708194831)
 
 ### 学习参考
 1. [GitHub 仓库](https://github.com/InternLM/Tutorial)（<u>[https://github.com/InternLM/Tutorial](https://github.com/InternLM/Tutorial)</u>）
